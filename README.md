@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Robin Kroonen
+# Hi there!
 
 Welcome to my GitHub space where ideas take flight through code. 🚀
 
