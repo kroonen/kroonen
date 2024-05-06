@@ -1,11 +1,15 @@
 # Hi there!
 
-Welcome to my GitHub space where ideas take flight through code. 🚀
+Welcome to my GitHub space. 🚀
 
-- 🌎 Based: Quebec, CA (UTC -05:00)
+- 🌎 Quebec, CA (UTC -05:00)
 - 🖥️ Systems Engineering
-- 🔭 Currently contributing to [User-friendly WebUI for LLMs](https://github.com/open-webui/open-webui)
-- 📚 Studied Computer Science and Quantum Mechanics @ Unamur, Belgium
+- 📚 Studied Computer Science and Quantum Mechanics @ UNamur, Belgium
+- [User-friendly WebUI for LLMs](https://github.com/open-webui/open-webui) Contributing to the creation of the optimal User Interface for interacting with Large Language Models running on your personal computer.
+
+I'm passionate about leveraging technology to solve complex problems and create innovative solutions and built an AI inference cluster to democratize AI by making it accessible on personal computers. I optimize AI workloads for both Apple Silicon Macs (M1/2/3) and NVIDIA (CUDA) on PCs running Ubuntu/Windows.
+
+Some of my tools:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
