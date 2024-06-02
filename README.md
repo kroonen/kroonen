@@ -8,7 +8,7 @@ Welcome to my GitHub space. 🚀
 - ⚡️ [Open-WebUI](https://github.com/open-webui/open-webui) Contributing to the creation of the optimal User Interface for interacting with Large Language Models running on your personal computer.
 - 🐬 [Cognitive Computations](https://huggingface.co/cognitivecomputations) Dedicated to explore AI, fostering curiosity, and democratizing access to AI tools and technologies.
 
-I'm passionate about leveraging technology to solve complex problems and create innovative solutions. Built an AI inference cluster for AI research. Apple Silicon (MPS), NVIDIA (CUDA) and AMD (ROCm).
+I'm passionate about leveraging technology to solve complex problems and create innovative solutions. Recently built two inference clusters for an AI research project. I use Apple Silicon (MPS), NVIDIA (CUDA) and AMD (ROCm). 🦾
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
