@@ -9,8 +9,6 @@ Welcome to my GitHub space! 🚀 I'm a Systems Engineer passionate about leverag
 - 🧠 AI and Machine Learning enthusiast
 
 ## 🚀 Current Projects
-- ⚡️ Contributing to [Open-WebUI](https://github.com/open-webui/open-webui)
-  - Creating the optimal User Interface for interacting with Large Language Models on personal computers
 - 🖥️ AI Research: Built inference clusters to benchmark various hardware:
   - Apple Silicon: M1, M2 Pro, M3 Max (MPS)
   - NVIDIA GPUs: RTX 4090, Tesla P40 (CUDA)
