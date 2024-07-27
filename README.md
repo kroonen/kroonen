@@ -10,7 +10,7 @@ Welcome to my GitHub space! 🚀 I'm a Systems Engineer passionate about leverag
 
 ## 🚀 Current Projects
 - 🖥️ AI Research: Built inference clusters to benchmark various hardware:
-  - Apple Silicon: M1, M2 Pro, M3 Max (MPS)
+  - Apple Silicon: M1, M2 Pro, M3 Max (Metal Performance Shaders)
   - NVIDIA GPUs: RTX 4090, Tesla P40 (CUDA)
   - AMD GPU: 7900 XTX (ROCm)
 
