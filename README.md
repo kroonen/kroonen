@@ -9,6 +9,8 @@ Welcome to my GitHub space! 🚀 I'm a Systems Engineer passionate about leverag
 - 🧠 AI and Machine Learning enthusiast
 
 ## 🚀 Current Projects
+- 🦙 ArtyLLaMA: an innovative chat interface that leverages the power of LLaMA.cpp and introduces an artifacts "claude-like" feature for dynamic content generation and display.
+
 - 🖥️ AI Research: Built inference clusters to benchmark various hardware:
   - Apple Silicon: M1, M2 Pro, M3 Max (Metal Performance Shaders)
   - NVIDIA GPUs: RTX 4090, Tesla P40 (CUDA)
