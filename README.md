@@ -1,8 +1,8 @@
-## Robin Kroonen
+### Robin Kroonen
 
 AI researcher and developer focused on innovative interfaces and hardware optimization.
 
-## Links
+### Links
 
 - [🦾 kroonen.ai](https://www.kroonen.ai) - AI research and projects
 - [👾 kroonen.ca](https://www.kroonen.ca) - Personal experiments and ideas
