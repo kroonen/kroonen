@@ -1,4 +1,4 @@
-# Robin Kroonen
+## Robin Kroonen
 
 AI researcher and developer focused on innovative interfaces and hardware optimization.
 
@@ -8,4 +8,4 @@ AI researcher and developer focused on innovative interfaces and hardware optimi
 - [🧪 kroonen.ca](https://www.kroonen.ca) - Personal experiments and ideas
 - [🦙 ArtyLLaMa](https://github.com/yourusername/artyllama) - AI-powered creative platform
   
-[Contact for collaborations](mailto:robin@kroonen.ai)
+<sup> [Contact for collaborations](mailto:robin@kroonen.ai) </sup>
