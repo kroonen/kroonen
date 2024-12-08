@@ -5,14 +5,14 @@
 ## 🚀 Featured Projects
 
 ### [🎨 ArtyLLaMa](https://artyllama.com)
-Creative platform transforming raw AI outputs into dynamic artifacts, integrating multiple providers (Ollama, Anthropic, OpenAI).
+Experimental creative platform transforming raw AI outputs into dynamic artifacts, integrating multiple providers (Ollama, Anthropic, OpenAI).
 [![ArtyLLaMa](https://img.shields.io/badge/Visit-ArtyLLaMa-blue?style=flat-square)](https://artyllama.com)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/ArtyLLaMa/ArtyLLaMa)
 
-### [👁️ OllamaUI](https://openwebui.org)
+### [👁️ OllamaUI](https://ollamaui.org)
 Minimal interface for local AI models with LLaMA 3.2 Vision support.
-[![OpenWebUI](https://img.shields.io/badge/Visit-OpenWebUI-blue?style=flat-square)](https://openwebui.org)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/ArtyLLaMa/OllamaUI)
+[![Ollama UI](https://img.shields.io/badge/Visit-OllamaUI-blue?style=flat-square)](https://ollamaui.org)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/OllamaUI/OllamaUI)
 
 ## 🌐 Research & Experiments
 
