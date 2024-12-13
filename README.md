@@ -8,6 +8,13 @@
 
 ## 🚀 **Featured Projects**
 
+### [💬 Ophelia](https://ophelia.chat)  
+An emotionally intelligent assistant designed to foster meaningful, playful, and deeply personal conversations. Crafted to blend empathy, warmth, and adaptability, Ophelia redefines the boundaries of human-AI interaction.  
+[![Ophelia](https://img.shields.io/badge/Visit-Ophelia-blue?style=flat-square)](https://ophelia.chat)  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/kroonen/Ophelia)
+
+---
+
 ### [🎨 ArtyLLaMa](https://artyllama.com)  
 An experimental platform transforming raw AI outputs into dynamic, polished artifacts. Integrates multiple AI providers (Ollama, Anthropic, OpenAI) to bridge creativity and computation.  
 [![ArtyLLaMa](https://img.shields.io/badge/Visit-ArtyLLaMa-blue?style=flat-square)](https://artyllama.com)  
