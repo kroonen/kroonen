@@ -7,10 +7,10 @@
 
 ## 🚀 Featured Projects
 
-| [💬 Ophelia](https://ophelia.chat) | [🎨 ArtyLLaMa](https://artyllama.com) | [👁️ OllamaUI](https://ollamaui.org) |
-| :--: | :--: | :--: |
-| An emotionally intelligent assistant designed to foster meaningful, playful, and deeply personal conversations. Blending empathy, warmth, and adaptability to redefine the boundaries of human-AI interaction. | An experimental platform transforming raw AI outputs into dynamic, polished artifacts. Integrates multiple AI providers (Ollama, Anthropic, OpenAI) to bridge creativity and computation. | A minimalist, high-performance interface for local AI models featuring **LLaMA 3.2 Vision support**. Focused on seamless interaction with state-of-the-art models. |
-| [![Ophelia](https://img.shields.io/badge/Visit-Ophelia-blue?style=flat-square)](https://ophelia.chat)<br>[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/kroonen/Ophelia) | [![ArtyLLaMa](https://img.shields.io/badge/Visit-ArtyLLaMa-blue?style=flat-square)](https://artyllama.com)<br>[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/ArtyLLaMa/ArtyLLaMa) | [![OllamaUI](https://img.shields.io/badge/Visit-OllamaUI-blue?style=flat-square)](https://ollamaui.org)<br>[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/OllamaUI/OllamaUI) |
+| [💬 Ophelia](https://ophelia.chat) | [🎨 ArtyLLaMa](https://artyllama.com) |
+| :--: | :--: |
+| An emotionally intelligent assistant designed to foster meaningful, playful, and deeply personal conversations. Blending empathy, warmth, and adaptability to redefine the boundaries of human-AI interaction. | An experimental platform transforming raw AI outputs into dynamic, polished artifacts. Integrates multiple AI providers (Ollama, Anthropic, OpenAI) to bridge creativity and computation. |
+| [![Ophelia](https://img.shields.io/badge/Visit-Ophelia-blue?style=flat-square)](https://ophelia.chat)<br>[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/kroonen/Ophelia) | [![ArtyLLaMa](https://img.shields.io/badge/Visit-ArtyLLaMa-blue?style=flat-square)](https://artyllama.com)<br>[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/ArtyLLaMa/ArtyLLaMa) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 | **Human-AI Symbiosis** | **Automation & DevOps** | **AI Development** | **Computational Theory** |
 | :--------------------: | :---------------------: | :---------------: | :----------------------: |
-| Designing interfaces that amplify collaboration between humans and AI systems. | Streamlining processes with CI/CD pipelines, Cypress, and Postman/Newman. | Integrating local and cloud AI models with advanced frameworks (e.g., LLaMA, OpenAI, Anthropic). | Exploring the fundamentals of AI systems and their application to real-world problems. |
+| Designing interfaces that amplify collaboration between humans and AI systems. | Streamlining processes with CI/CD pipelines | Integrating local and cloud AI models with advanced frameworks (e.g., LLaMA, OpenAI, Anthropic). | Exploring the fundamentals of AI systems and their application to real-world problems. |
 
 ---
 
